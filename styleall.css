@@ -5791,7 +5791,7 @@ button.close {
     display: none !important;
   }
 }
-/*# sourceMappingurl('http://razemdocelu.pl/wp-content/themes/key/=bootstrap.css.map */
+/*# sourceMappingURL=bootstrap.css.map */
 
 
 
@@ -6423,7 +6423,7 @@ header {
 }
 
 #headerbackground {
-    background-image: url('http://razemdocelu.pl/wp-content/themes/key/img/headerbg.jpg');
+    background-image: url(../img/headerbg.jpg);
     background-attachment: fixed;
     background-size: cover;
     position: absolute;
