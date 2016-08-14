@@ -5791,7 +5791,7 @@ button.close {
     display: none !important;
   }
 }
-/*# sourceMappingURL=bootstrap.css.map */
+/*# sourceMappingurl('http://razemdocelu.pl/wp-content/themes/key/=bootstrap.css.map */
 
 
 
@@ -5900,16 +5900,16 @@ img::-moz-selection {
 @font-face {
     font-family: PTSans;
     font-weight: normal;
-    src: url(../fonts/PT_Sans-Web-Regular.ttf);
+    src: url('http://razemdocelu.pl/wp-content/themes/key/fonts/PT_Sans-Web-Regular.ttf');
 }
 @font-face {
     font-family: PTSans;
     font-weight: bold;
-    src: url(../fonts/PT_Sans-Web-Bold.ttf);
+    src: url('http://razemdocelu.pl/wp-content/themes/key/fonts/PT_Sans-Web-Bold.ttf');
 }
 @font-face {
     font-family: WorkSans;
-    src: url(../fonts/WorkSans-Light.ttf);
+    src: url('http://razemdocelu.pl/wp-content/themes/key/fonts/WorkSans-Light.ttf');
 }
 @font-face {
     font-family: 'Nucleo Outline';
@@ -6186,7 +6186,7 @@ body.modal-open {
     display: none;
 }
 .owl-theme .owl-controls .owl-buttons div {
-    background: url(../img/arrow.png);
+    background: url('http://razemdocelu.pl/wp-content/themes/key/img/arrow.png');
     display: inline-block;
     zoom: 1;
     margin: 0;
@@ -6310,7 +6310,7 @@ body.modal-open {
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 .grabbing {
-    cursor: url(../img/grabbing.png) 8 8, move;
+    cursor: url('http://razemdocelu.pl/wp-content/themes/key/img/grabbing.png') 8 8, move;
 }
 .owl-carousel .owl-wrapper,
 .owl-carousel .owl-item {
@@ -6423,7 +6423,7 @@ header {
 }
 
 #headerbackground {
-    background-image: url(../img/headerbg.jpg);
+    background-image: url('http://razemdocelu.pl/wp-content/themes/key/img/headerbg.jpg');
     background-attachment: fixed;
     background-size: cover;
     position: absolute;
@@ -6461,7 +6461,7 @@ header .intro-text .intro-lead-in {
 header .header-dashboard {
     display: block;
     margin: auto;
-    background: url(../img/header-shadow.png);
+    background: url('http://razemdocelu.pl/wp-content/themes/key/img/header-shadow.png');
     margin-top: -60px;
 }
 #header .primary-button.button-inverse:hover {
@@ -6628,7 +6628,7 @@ header .container {
     margin-bottom: 30px;
 }
 .features-tabs li {
-    background: url(../img/checked.png) no-repeat left 20px;
+    background: url('http://razemdocelu.pl/wp-content/themes/key/img/checked.png') no-repeat left 20px;
     padding-left: 35px;
 	padding-bottom:10px;
     list-style: none;
@@ -6722,7 +6722,7 @@ header .container {
 
 
 #video {
-    background: url(../img/video/videobg.jpg);
+    background: url('http://razemdocelu.pl/wp-content/themes/key/img/video/videobg.jpg');
     position: relative;
     background-size: 100%;
     background-attachment: fixed;
